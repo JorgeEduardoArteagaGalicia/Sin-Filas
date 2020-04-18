@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(90, 147, 194);
+}
+header{
+  
+    text-align: center;
+    height: 100px;
+    background-color: rgb(248, 181, 94);
+}
+.cab h1{
+    padding-top: 15px;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+.encabezado{
+    text-align: center;
+    display: grid;
+    grid-template-columns: 10% 80% 10%;
+}
+.cabp, p, .user{
+    cursor: pointer;
+    height: 30px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    font-size: 25px;
+    padding-top: 18px;
+}
+.cabp .user{
+    padding-right:5px ;
+}
+
+/****************************************Grid**********************/
+.container{
+    text-align: center;
+    padding-top: 100px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 16.5% 16.5% 16.5% 16.5% 16.5% 16.5%;
+    padding-bottom: 80px;
+}
+.item1 .mundo, .abarrotes, .tortilla,.fruta, .cosina, .estilista{
+    cursor: pointer;
+    height: 70px;
+}
+.item1 h3{
+    cursor: pointer;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*--------------------------Mapa---------------------------*/
+.ubi{
+    padding-top: 0px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+    height: 300px;
+    padding-bottom: 300px;
+}
+
+#map{
+    border-radius: 20px;
+    justify-content: center;
+    height: 400px;
+    width: 100%;
+}
+
+@media(max-width:900px){
+    .cabp p{
+        font-size: 17px;
+    }
+    .cabp .user{
+        height: 17px;
+    }
+    .cab h1{
+        font-size: 40px;
+    }
+    .encabezado{
+
+        grid-template-columns: 0% 80% 20%;
+    } 
+    .container{
+        height: 250px;
+        grid-template-columns: 33.33% 33.33% 33.33%;
+        padding-bottom: 0px;
+    }
+    h1{
+        font-size: 50px;
+    }
+    .item1 .mundo, .abarrotes, .tortilla,.fruta, .cosina, .estilista{
+        
+        height: 50px;
+    }
+    .item1 h3{
+        font-size: 15px; 
+    }
+}
