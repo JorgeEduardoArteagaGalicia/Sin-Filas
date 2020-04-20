@@ -2,14 +2,29 @@
     padding: 0;
     margin: 0;
 }
+p{
+    font-size: 18px;
+}
+a{
+    
+    font-size: 20px;
+    color: rgb(44, 221, 103);
+    text-decoration: none;
+}
+.fondo{
+    position: fixed;
+    z-index: -1;
+   width: 100%;
+}
 body{
+    
     background-color: rgb(90, 147, 194);
 }
 header{
   
     text-align: center;
     height: 100px;
-    background-color: rgb(248, 181, 94);
+
 }
 .cab h1{
     padding-top: 15px;
@@ -22,7 +37,7 @@ header{
     display: grid;
     grid-template-columns: 10% 80% 10%;
 }
-.cabp, p, .user{
+.cabp, .user{
     cursor: pointer;
     height: 30px;
     display: flex;
@@ -49,8 +64,8 @@ header{
     height: 70px;
 }
 .item1 h3{
-    cursor: pointer;
-    color: aliceblue;
+   
+    color: rgb(255, 255, 255);
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -61,17 +76,48 @@ header{
     display: grid;
     grid-template-columns: 20% 60% 20%;
     height: 300px;
-    padding-bottom: 300px;
+    padding-bottom: 200px;
 }
 
 #map{
     border-radius: 20px;
     justify-content: center;
-    height: 400px;
+    height: 450px;
     width: 100%;
+}
+/*------------------Botones de abajo*/
+.abajo{
+    padding-bottom: 100px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.limpiar button{
+ cursor: pointer;
+outline: none;
+height: 40px;
+width: 300px;
+border-radius: 15px;
+border: none;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+color: aliceblue;
+background-color: rgba(64, 238, 93, 0.856);
+
+}
+.limpiar button:hover{
+    height: 42;
+    
+    color: rgb(255, 255, 255);
+    background-color: rgba(86, 139, 224, 0.603);
 }
 
 @media(max-width:900px){
+    .fondo{
+        position: fixed;
+        z-index: -1;
+        height: 800px;
+    }
     .cabp p{
         font-size: 17px;
     }
@@ -83,7 +129,7 @@ header{
     }
     .encabezado{
 
-        grid-template-columns: 0% 80% 20%;
+        grid-template-columns: 10% 80% 10%;
     } 
     .container{
         height: 250px;
@@ -99,5 +145,17 @@ header{
     }
     .item1 h3{
         font-size: 15px; 
+    }
+    .ubi{
+
+        grid-template-columns: 10% 80% 10%;
+
+    }
+    .abajo{
+      
+        grid-template-columns: 100%;
+    }
+    .limpiar{
+        height: 50px;
     }
 }
