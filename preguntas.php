@@ -28,7 +28,7 @@ if($_POST){
   
   if( $sentencia->execute()){
   echo "Registro completado exitosamente";
-  header("location: index.html");
+  Echo "<script>window.locationf='index.html'</script>"
 }else{
   echo "Error al registrarse";
 }
