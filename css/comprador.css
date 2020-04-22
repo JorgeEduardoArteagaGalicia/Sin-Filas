@@ -87,7 +87,7 @@ header{
 }
 /*------------------Botones de abajo*/
 .abajo{
-    padding-bottom: 100px;
+    padding-bottom: 50px;
     text-align: center;
     display: grid;
     grid-template-columns: 50% 50%;
@@ -111,12 +111,40 @@ background-color: rgba(64, 238, 93, 0.856);
     color: rgb(255, 255, 255);
     background-color: rgba(86, 139, 224, 0.603);
 }
+.algoritmo{
+    
+    height: 80px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+}
+
+.algoritmo , .pasos1 img{
+height: 80px;
+}
+.algoritmo ,.pasos img{
+    padding-top: 20px;
+    height: 60px;
+}
+.pasos h3{
+    font-size: 25px;
+    color: aliceblue; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pasos1 h3{
+    font-size: 25px;
+    color: aliceblue; 
+    font-family: Arial, Helvetica, sans-serif;  
+}
+.pasos,.pasos1{
+    height: 200px;
+}
 
 @media(max-width:900px){
     .fondo{
         position: fixed;
         z-index: -1;
-        height: 800px;
+        width: 100%;
     }
     .cabp p{
         font-size: 17px;
@@ -134,7 +162,7 @@ background-color: rgba(64, 238, 93, 0.856);
     .container{
         height: 250px;
         grid-template-columns: 33.33% 33.33% 33.33%;
-        padding-bottom: 0px;
+        padding-bottom: 100px;
     }
     h1{
         font-size: 50px;
@@ -152,10 +180,34 @@ background-color: rgba(64, 238, 93, 0.856);
 
     }
     .abajo{
-      
+        padding-bottom: 0px;
         grid-template-columns: 100%;
     }
     .limpiar{
         height: 50px;
+    }
+    .algoritmo{
+        grid-template-columns: 100%;
+    }
+    .algoritmo ,.pasos img{
+        height: 30px;
+    }
+    .pasos h3{
+        font-size: 15px;
+
+    }
+    .pasos{
+        height: 80px;
+    }
+    .algoritmo ,.pasos1 img{
+        height: 60px;
+    }
+    .pasos1 h3{
+        font-size: 15px;
+
+    }
+    .pasos1{
+        padding-top: 10px;
+        height: 100px;
     }
 }

@@ -1,0 +1,88 @@
+[21-Apr-2020 19:12:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/sinfilas.insozac.com/preguntas.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/sinfilas.insozac.com/preguntas.php on line 16
+[21-Apr-2020 19:12:33 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/sinfilas.insozac.com/preguntas.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/sinfilas.insozac.com/preguntas.php on line 16
+[21-Apr-2020 19:47:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/sinfilas.insozac.com/preguntas.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/sinfilas.insozac.com/preguntas.php on line 16
+[21-Apr-2020 19:47:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/sinfilas.insozac.com/preguntas.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/sinfilas.insozac.com/preguntas.php on line 16
+[21-Apr-2020 19:47:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/sinfilas.insozac.com/preguntas.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/sinfilas.insozac.com/preguntas.php on line 16
+[21-Apr-2020 19:47:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/sinfilas.insozac.com/preguntas.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/sinfilas.insozac.com/preguntas.php on line 16
+[21-Apr-2020 19:59:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/pruebas.insozac.com/preguntas.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/pruebas.insozac.com/preguntas.php on line 16
+[21-Apr-2020 19:59:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/pruebas.insozac.com/preguntas.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/pruebas.insozac.com/preguntas.php on line 16
+[21-Apr-2020 19:59:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/pruebas.insozac.com/preguntas.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/pruebas.insozac.com/preguntas.php on line 16
+[21-Apr-2020 20:02:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/pruebas.insozac.com/preguntas.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/pruebas.insozac.com/preguntas.php on line 16
+[21-Apr-2020 20:02:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/pruebas.insozac.com/preguntas.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/pruebas.insozac.com/preguntas.php on line 16
+[21-Apr-2020 20:02:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/pruebas.insozac.com/preguntas.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/pruebas.insozac.com/preguntas.php on line 16
+[21-Apr-2020 20:05:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/pruebas.insozac.com/preguntas.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/pruebas.insozac.com/preguntas.php on line 17
+[21-Apr-2020 20:05:42 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/pruebas.insozac.com/preguntas.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/pruebas.insozac.com/preguntas.php on line 17
+[21-Apr-2020 20:06:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/pruebas.insozac.com/preguntas.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/pruebas.insozac.com/preguntas.php on line 17
+[21-Apr-2020 20:06:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/pruebas.insozac.com/preguntas.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/pruebas.insozac.com/preguntas.php on line 17
+[21-Apr-2020 20:06:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/pruebas.insozac.com/preguntas.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/pruebas.insozac.com/preguntas.php on line 17
+[21-Apr-2020 20:06:33 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/pruebas.insozac.com/preguntas.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/pruebas.insozac.com/preguntas.php on line 17
+[21-Apr-2020 20:07:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/pruebas.insozac.com/preguntas.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/pruebas.insozac.com/preguntas.php on line 17
+[21-Apr-2020 20:07:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/pruebas.insozac.com/preguntas.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/pruebas.insozac.com/preguntas.php on line 17
+[21-Apr-2020 20:07:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/doikamxc/pruebas.insozac.com/preguntas.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/doikamxc/pruebas.insozac.com/preguntas.php on line 17
+[21-Apr-2020 20:15:32 America/Mexico_City] PHP Parse error:  syntax error, unexpected '315256' (T_LNUMBER), expecting ')' in /home3/doikamxc/pruebas.insozac.com/preguntas.php on line 18
+[21-Apr-2020 20:16:09 America/Mexico_City] PHP Parse error:  syntax error, unexpected '315256' (T_LNUMBER), expecting ')' in /home3/doikamxc/pruebas.insozac.com/preguntas.php on line 18
+[21-Apr-2020 20:28:33 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/doikamxc/pruebas.insozac.com/preguntas.php:30) in /home3/doikamxc/pruebas.insozac.com/preguntas.php on line 31
+[21-Apr-2020 20:30:06 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/doikamxc/pruebas.insozac.com/preguntas.php:30) in /home3/doikamxc/pruebas.insozac.com/preguntas.php on line 31
